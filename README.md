@@ -1,9 +1,11 @@
 ## hey there!
 
-i'm samuel, a first year [@ UWaterloo](https://uwaterloo.ca/) studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering). I'm interested in full stack dev with a focus on user experience and design.
+i'm samuel, a first year [@ UWaterloo](https://uwaterloo.ca/) studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering).   
+
+currently exploring full stack dev with a focus on user experience and design.
 
 ## current
-- building Munch, a social media platform
+- building [Munch](https://www.instagram.com/jointhemunch/), a social media platform
 - learning React Native
 
 ## reach me!
