@@ -6,7 +6,7 @@ currently exploring **full stack dev** with a focus on **user experience** and *
 
 ## current
 - building [Munch](https://www.instagram.com/jointhemunch/), a social media platform
-- learning React Native
+- playing with [React Native](https://reactnative.dev/)
 
 ## reach me
 [email](mailto:samzehuang@gmail.com) | [linkedin](https://www.linkedin.com/in/samuelzh/) | [samuelhuang.me](https://samuelhuang.me/) <br>
