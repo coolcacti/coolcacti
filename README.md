@@ -2,7 +2,7 @@
 
 i'm samuel, a first year [@ UWaterloo](https://uwaterloo.ca/) studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering).   
 
-currently exploring full stack dev with a focus on user experience and design. interested in integrating both front and backend infrastructures to create seamless, user-centred products.
+currently exploring **full stack dev** with a focus on **user experience** and **design**. interested in integrating both front and backend infrastructures to create **seamless, user-centred products**.
 
 ## current
 - building [Munch](https://www.instagram.com/jointhemunch/), a social media platform
