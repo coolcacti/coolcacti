@@ -1,4 +1,4 @@
-## hey there!
+## hey there! 👋
 
 i'm samuel, a first year [@ UWaterloo](https://uwaterloo.ca/) studying [Systems Design Engineering](https://uwaterloo.ca/future-students/programs/systems-design-engineering).   
 
