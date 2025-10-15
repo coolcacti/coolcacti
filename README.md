@@ -9,8 +9,6 @@ currently exploring **full stack dev** with a focus on **user experience** and *
 - learning React Native
 
 ## reach me
-→ [email](mailto:samzehuang@gmail.com)<br>
-→ [samuelhuang.me](https://samuelhuang.me/)<br>
-→ [linkedin](https://www.linkedin.com/in/samuelzh/)<br>
+[email](mailto:samzehuang@gmail.com) | [linkedin](https://www.linkedin.com/in/samuelzh/) | [samuelhuang.me](https://samuelhuang.me/) <br>
 
 <img alt="roaming bees" src="https://github.com/user-attachments/assets/2a574cc5-600e-42a0-b2b6-4f821f19ec48">
